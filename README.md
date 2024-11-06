@@ -25,4 +25,4 @@ This project is a simple currency converter web application with a login page. I
 ├── index.html         # Login page
 ├── dashboard.html     # Currency converter dashboard
 ├── style.css          # Stylesheet for the app
-└── script.js          # JavaScript for form validation and currency conversion
+└── currencyConvertor.js          # JavaScript for form validation and currency conversion
