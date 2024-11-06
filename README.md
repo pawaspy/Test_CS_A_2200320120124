@@ -2,14 +2,6 @@
 
 This project is a simple currency converter web application with a login page. It provides basic front-end functionality for user authentication and a currency conversion dashboard. The app demonstrates basic HTML, CSS, and JavaScript usage for educational purposes.
 
-## Table of Contents
-
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Setup and Usage](#setup-and-usage)
-- [Customization](#customization)
-- [Future Improvements](#future-improvements)
-
 ## Features
 
 1. **Login Page**: A login page where users can enter their credentials. Basic client-side validation checks if the entered credentials match hardcoded values.
